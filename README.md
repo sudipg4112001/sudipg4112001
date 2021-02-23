@@ -1,4 +1,4 @@
-### Hi, Sudip here 👋
+### Hi there, Sudip here 👋
 
 <!--
 **sudipg4112001/sudipg4112001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
