@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Connect with me:
-[<img align="left" alt="Sudip" width="22px" src="file:///C:/Users/User/Desktop/linkedin.svg"/>][linkedin]
-</br>
-[linkedin]:https://linkedin.com/in/sudip4_ghosh
