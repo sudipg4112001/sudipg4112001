@@ -27,16 +27,16 @@
 
 ### Contact me:
 <a target="_blank" href="https://www.linkedin.com/in/sudip4_ghosh/">
-  <img align="left" alt="LinkdeIN" height="30px" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkdeIN" height="30px" width="60px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:sudipg4112001@gmail.com">
-  <img align="left" alt="Gmail" height="30px" width="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Gmail" height="30px" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.instagram.com/sudipg411/">
-  <img align="left" alt="Instagram" height ="30px" width="50px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Instagram" height ="30px" width="60px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://https://twitter.com/SUDIPG411">
-  <img align="left" alt="Twitter" height="30px" width="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="Twitter" height="30px" width="60px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 
