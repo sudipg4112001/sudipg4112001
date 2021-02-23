@@ -1,5 +1,12 @@
 ### Hi there, Sudip here 👋
 
+### About me:
+- I’m currently a B.Tech sophomore in Electronics and Communication Engineering
+- Enhanceing my skills everyday.
+- Data Science enthusiast
+- Looking forward to come up with some cool projects
+### Contact me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/sudip4_ghosh)
 <!--
 **sudipg4112001/sudipg4112001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
