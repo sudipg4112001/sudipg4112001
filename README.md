@@ -6,7 +6,7 @@
 - Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipg4112001&show_icons=true)
+ ![Sudip GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipg4112001&show_icons=true)
  ### Languages/Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -22,20 +22,22 @@
 <code><img height="20" src="https://img.shields.io/badge/Tensorflow-ff9000?style=for-the-badge&logo=tensorflow&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Keras-ff0000?style=for-the-badge&logo=keras&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/OpenCV-80ff00?style=for-the-badge&logo=OpenCV&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/XML-ff8800?style=for-the-badge&logo=XML&logoColor=white"></code>
 
 ### Contact me:
 <a target="_blank" href="https://www.linkedin.com/in/sudip4_ghosh/">
-  <img align="left" alt="LinkdeIN" height="30px" width="35px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="LinkdeIN" height="30px" width="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="mailto:sudipg4112001@gmail.com">
-  <img align="left" alt="Gmail" height="30px" width="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Gmail" height="30px" width="50px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.instagram.com/sudipg411/">
-  <img align="left" alt="Instagram" height ="25px" width="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Instagram" height ="30px" width="50px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://https://twitter.com/SUDIPG411">
-  <img align="left" alt="Twitter" height="30px" width="30px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="Twitter" height="30px" width="50px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
+
 
 
 <!--
