@@ -32,7 +32,7 @@
 <a target="_blank" href="mailto:sudipg4112001@gmail.com">
   <img align="left" alt="Gmail" height="30px" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.instagram.com/sudipg411/">
+<a target="_blank" href="https://www.instagram.com/sudipgh411/">
   <img align="left" alt="Instagram" height ="30px" width="60px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a target="_blank" href="https://https://twitter.com/SUDIPG411">
