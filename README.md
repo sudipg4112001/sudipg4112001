@@ -6,7 +6,12 @@
 - Data Science enthusiast
 - Looking forward to come up with some cool projects
 ### Contact me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/sudip4_ghosh)
+ <a target="_blank" href="https://www.linkedin.com/in/sudip4_ghosh/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+ <a target="_blank" href="mailto:sudipg4112001@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <!--
 **sudipg4112001/sudipg4112001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
