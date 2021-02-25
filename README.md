@@ -1,4 +1,4 @@
-### Hi there, Sudip here 👋
+### Hello world, Sudip here 👋
 
 ### About me:
 - I’m currently a B.Tech sophomore in Electronics and Communication Engineering
