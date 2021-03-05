@@ -7,7 +7,7 @@
 - Looking forward to come up and contribute to some cool projects
 
 ![Sudip GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipg4112001&show_icons=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipg4112001"/>
  ### Languages/Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -26,9 +26,7 @@
 <code><img height="20" src="https://img.shields.io/badge/XML-ff8800?style=for-the-badge&logo=XML&logoColor=white"></code>
 
 ### Contact me:
-<a target="_blank" href="https://www.linkedin.com/in/sudip4_ghosh/">
-  <img align="left" alt="LinkdeIN" height="30px" width="60px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudip4_ghosh/)
 <a target="_blank" href="mailto:sudipg4112001@gmail.com">
   <img align="left" alt="Gmail" height="30px" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
