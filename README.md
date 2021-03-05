@@ -1,5 +1,8 @@
 ### Hello world, Sudip here 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipg4112001" alt="sudipg4112001" /> </p>
+
+
 ### About me:
 - I’m currently a B.Tech sophomore in Electronics and Communication Engineering
 - Enhanceing my skills everyday.
