@@ -1,7 +1,7 @@
 ### Hello world, Sudip here 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipg4112001" alt="sudipg4112001" /> </p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/sudipg4112001/sudipg4112001/master/200.webp"/> </p>
 
 ### About me:
 - I’m currently a B.Tech sophomore in Electronics and Communication Engineering
