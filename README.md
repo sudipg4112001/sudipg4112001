@@ -9,8 +9,11 @@
 - Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
-![Sudip GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipg4112001&show_icons=true)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipg4112001"/>
+![Sudip GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipg4112001&show_icons=true&theme=dark&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipg4112001&theme=dark&hide_border=true"/>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=sudipg4112001&theme=github" />
+
  ### Languages/Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
