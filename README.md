@@ -5,7 +5,7 @@
 
 ### About me:
 - I’m currently a B.Tech sophomore in Electronics and Communication Engineering
-- Enhanceing my skills everyday.
+- Enhancing my skills everyday.
 - Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
