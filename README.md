@@ -4,8 +4,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/sudipg4112001/sudipg4112001/master/200.webp"/> </p>
 
 ### About me:
-- I’m currently a B.Tech sophomore in Electronics and Communication Engineering
-- Enhancing my skills everyday.
+- Currently, a B.Tech undergraduate student in Electronics and Communication Engineering
 - Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
