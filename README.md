@@ -8,7 +8,7 @@
 - Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
-![](https://raw.githubusercontent.com/sudipg4112001/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sudipg4112001?cardType=github)](https://git.io/awesome-stats-card)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipg4112001"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=sudipg4112001&theme=#B22222" />
