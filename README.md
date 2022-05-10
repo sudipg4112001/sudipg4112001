@@ -8,7 +8,7 @@
 - Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
-![Sudip GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudipg4112001&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sudipg4112001?cardType=level)](https://git.io/awesome-stats-card)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipg4112001"/>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=sudipg4112001&theme=#B22222" />
